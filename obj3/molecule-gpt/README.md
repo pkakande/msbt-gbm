@@ -34,7 +34,6 @@ End-to-end workflow:
 
 ## Project Structure
 
->>>>>>> f73641f49e3e5cbaba959ba7173fd3c1f78b640c
 project_root/
 ├── VERSION                      ← Project version (e.g., “1.2.0”)
 ├── CHANGELOG.md                 ← Detailed version history
