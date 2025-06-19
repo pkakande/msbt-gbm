@@ -4,7 +4,7 @@
 
 A modular, multi-phase system for SMILES generation and evaluation using GPT-style transformers and Ray on HPC.
 
-**Current version:** v{{VERSION}}
+**Current version:** vv1.2.0
 
 ---
 
@@ -34,6 +34,7 @@ End-to-end workflow:
 
 ## Project Structure
 
+>>>>>>> f73641f49e3e5cbaba959ba7173fd3c1f78b640c
 project_root/
 ├── VERSION                      ← Project version (e.g., “1.2.0”)
 ├── CHANGELOG.md                 ← Detailed version history
